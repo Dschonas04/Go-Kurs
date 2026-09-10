@@ -1,4 +1,6 @@
-// Package level2 -- AUFGABEN zu Level 2.
+// Package level2 -- deine Übung zu Level 2.
+//
+// Die Aufgabenstellung steht in Aufgabenstellung.txt.
 package level2
 
 // Person ist ein einfacher Datensatz.

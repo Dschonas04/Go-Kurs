@@ -2,7 +2,7 @@
   ABSCHLUSS: Wortzähler
 ════════════════════════════════════════════════════════════════
 
-  Baue in aufgabe.go einen kleinen Wortzähler. Er bringt alles aus
+  Baue in uebung.go einen kleinen Wortzähler. Er bringt alles aus
   den vier Leveln zusammen: Sammlungen, eigene Fehler,
   Schnittstellen und Nebenläufigkeit.
 

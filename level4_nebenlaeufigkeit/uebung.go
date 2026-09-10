@@ -1,4 +1,6 @@
-// Package level4 -- AUFGABEN zu Level 4.
+// Package level4 -- deine Übung zu Level 4.
+//
+// Die Aufgabenstellung steht in Aufgabenstellung.txt.
 package level4
 
 import (

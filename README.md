@@ -7,15 +7,21 @@ mit dem in Go wirklich gearbeitet wird.
 
 Jedes Level ist ein Paket:
 
-| Datei              | Zweck                                             |
-| ------------------ | ------------------------------------------------- |
-| `theorie.txt`      | Konzepte lesen und verstehen                      |
-| `aufgabe.go`       | Funktionen mit `// TODO` -- hier arbeitest du      |
-| `aufgabe_test.go`  | die Tests. **Nicht ändern**, sie sind die Aufgabe |
+| Datei                  | Zweck                                         |
+| ---------------------- | --------------------------------------------- |
+| `theorie.txt`          | Konzepte lesen und verstehen                  |
+| `Aufgabenstellung.txt` | was zu tun ist, in Worten                     |
+| `uebung.go`            | deine Lösung -- die Signaturen stehen schon da |
+| `uebung_test.go`       | die Tests. **Nicht ändern**, sie sind die Aufgabe |
 
-Die Musterlösungen liegen unter `loesungen/` und werden von denselben
-Tests geprüft. Wer nachsieht, bevor er es versucht hat, betrügt sich
-selbst -- der Test sagt dir vorher schon genau, was fehlt.
+Die Musterlösungen liegen gesammelt in [`Loesungen/`](Loesungen/) und
+werden von denselben Tests geprüft. Wer nachsieht, bevor er es versucht
+hat, betrügt sich selbst -- der Test sagt dir vorher schon genau, was
+fehlt.
+
+Die Signaturen bleiben stehen, weil die Tests sie so aufrufen. Eine ganz
+leere Datei würde in Go nicht übersetzen, und die Fehlermeldung hätte
+nichts mit der Aufgabe zu tun.
 
 ## Los geht es
 

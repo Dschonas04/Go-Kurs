@@ -1,4 +1,6 @@
-// Package level1 -- AUFGABEN zu Level 1.
+// Package level1 -- deine Übung zu Level 1.
+//
+// Die Aufgabenstellung steht in Aufgabenstellung.txt.
 //
 // Fülle die Funktionen aus. Prüfen mit:  ./pruefen.sh 1
 package level1
