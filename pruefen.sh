@@ -18,7 +18,7 @@ GRUEN=$'\e[32m'; ROT=$'\e[31m'; FETT=$'\e[1m'; AUS=$'\e[0m'
 welche="${1:-alle}"
 pfade=(./level1_grundlagen ./level2_sammlungen ./level3_schnittstellen ./level4_nebenlaeufigkeit ./abschluss)
 if [ "$welche" = "--loesung" ]; then
-  pfade=(./loesungen/...)
+  pfade=(./Loesungen/...)
   welche="alle"
 elif [ "$welche" != "alle" ]; then
   treffer=()

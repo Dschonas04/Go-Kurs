@@ -1,5 +1,5 @@
 // Package abschluss -- Abschlussaufgabe.
-// Die Beschreibung steht in aufgabe.txt.
+// Die Beschreibung steht in Aufgabenstellung.txt.
 package abschluss
 
 import (
